@@ -19,7 +19,7 @@ This app is built with React + Vite, TailwindCSS, and Firebase. It uses Firebase
 1. To get started with this project, run
 
 ```bash
-  https://github.com/13paras/react-firebase-blog.git
+ https://github.com/shrutarshi474/blog-app-react-firbase.git
 ```
 
 2. Navigate into the project directory:
